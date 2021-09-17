@@ -1,0 +1,19 @@
+C:\Users\Admin\source\repos\ProjetoWebotany\bin\Debug\ProjetoWebotany.exe.config
+C:\Users\Admin\source\repos\ProjetoWebotany\bin\Debug\ProjetoWebotany.exe
+C:\Users\Admin\source\repos\ProjetoWebotany\bin\Debug\ProjetoWebotany.pdb
+C:\Users\Admin\source\repos\ProjetoWebotany\obj\Debug\ProjetoWebotany.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\ProjetoWebotany\obj\Debug\ProjetoWebotany.Form1.resources
+C:\Users\Admin\source\repos\ProjetoWebotany\obj\Debug\ProjetoWebotany.Form2.resources
+C:\Users\Admin\source\repos\ProjetoWebotany\obj\Debug\ProjetoWebotany.Properties.Resources.resources
+C:\Users\Admin\source\repos\ProjetoWebotany\obj\Debug\ProjetoWebotany.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ProjetoWebotany\obj\Debug\ProjetoWebotany.exe
+C:\Users\Admin\source\repos\ProjetoWebotany\obj\Debug\ProjetoWebotany.pdb
+C:\Users\Admin\source\repos\ProjetoWebotany\obj\Debug\ProjetoWebotany.Form3.resources
+C:\Users\Admin\source\repos\ProjetoWebotany\obj\Debug\ProjetoWebotany.Form4.resources
+C:\Users\Admin\source\repos\ProjetoWebotany\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\source\repos\ProjetoWebotany\obj\Debug\ProjetoWebotany.csproj.CopyComplete
+C:\Users\Admin\source\repos\ProjetoWebotany\obj\Debug\ProjetoWebotany.Form5.resources
+C:\Users\Admin\source\repos\ProjetoWebotany\obj\Debug\ProjetoWebotany.Form6.resources
+C:\Users\Joao Pedro\Desktop\TCC\ProjetoWebotany\obj\Debug\ProjetoWebotany.csprojAssemblyReference.cache
+C:\Users\Joao Pedro\Desktop\TCC\ProjetoWebotany\obj\Debug\ProjetoWebotany.exe
+C:\Users\Joao Pedro\Desktop\TCC\ProjetoWebotany\obj\Debug\ProjetoWebotany.pdb
